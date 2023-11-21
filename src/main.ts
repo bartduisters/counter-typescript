@@ -1,4 +1,4 @@
-import { setupCounter } from "./counter.ts";
+import { setupCounter } from "./setup-counter.ts";
 import { setupDoubleCounter } from "./setup-double-counter.ts";
 import "./style.css";
 import typescriptLogo from "./typescript.svg";
